@@ -26,6 +26,16 @@ padding: 8px;
 transition: .5s;
 opacity: 0;
 vertical-align: top;
+font-weight: bold;
+}
+
+.extrainfo {
+  text-align: center;
+}
+
+.extrainfo > p > a {
+font-size: 12pt;
+margin: 0;
 }
 
 .appicon {
@@ -78,7 +88,6 @@ a:hover {
   left: 50%;
   transform: translate(-50%, 0);
   width: calc(719px);
-  height: 100%;
 }
 
 .footer {
