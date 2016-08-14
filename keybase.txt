@@ -1,0 +1,53 @@
+
+==================================================================
+https://keybase.io/alexskc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://alexskc.xyz
+  * I am alexskc (https://keybase.io/alexskc) on keybase.
+  * I have a public key ASBeI1oL74j3h6NPZltDltVSZrMTY9xJXub3TcvgkbxSGQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01205e235a0bef88f787a34f665b4396d55266b31363dc495ee6f74dcbe091bc52190a",
+            "host": "keybase.io",
+            "kid": "01205e235a0bef88f787a34f665b4396d55266b31363dc495ee6f74dcbe091bc52190a",
+            "uid": "29c67838de9e9479476932bbb9c7a019",
+            "username": "alexskc"
+        },
+        "service": {
+            "hostname": "alexskc.xyz",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1471145192,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1471145153,
+        "hash": "8270fd56f3f6b7dbe4da3eda992cd223e7262dd1651475e19e644216cbac53992384efb7ae9af3b7e48817f4436e73523a0c4f1b6bda112fa45800404ee1e3fe",
+        "seqno": 575761
+    },
+    "prev": "74327dce64a129ef1c50f11bc5eecdbd540f89e1a23ed5aab07b717a1c06861f",
+    "seqno": 23,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXiNaC++I94ejT2ZbQ5bVUmazE2PcSV7m903L4JG8UhkKp3BheWxvYWTFAvJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNWUyMzVhMGJlZjg4Zjc4N2EzNGY2NjViNDM5NmQ1NTI2NmIzMTM2M2RjNDk1ZWU2Zjc0ZGNiZTA5MWJjNTIxOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNWUyMzVhMGJlZjg4Zjc4N2EzNGY2NjViNDM5NmQ1NTI2NmIzMTM2M2RjNDk1ZWU2Zjc0ZGNiZTA5MWJjNTIxOTBhIiwidWlkIjoiMjljNjc4MzhkZTllOTQ3OTQ3NjkzMmJiYjljN2EwMTkiLCJ1c2VybmFtZSI6ImFsZXhza2MifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImFsZXhza2MueHl6IiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNyJ9LCJjdGltZSI6MTQ3MTE0NTE5MiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDcxMTQ1MTUzLCJoYXNoIjoiODI3MGZkNTZmM2Y2YjdkYmU0ZGEzZWRhOTkyY2QyMjNlNzI2MmRkMTY1MTQ3NWUxOWU2NDQyMTZjYmFjNTM5OTIzODRlZmI3YWU5YWYzYjdlNDg4MTdmNDQzNmU3MzUyM2EwYzRmMWI2YmRhMTEyZmE0NTgwMDQwNGVlMWUzZmUiLCJzZXFubyI6NTc1NzYxfSwicHJldiI6Ijc0MzI3ZGNlNjRhMTI5ZWYxYzUwZjExYmM1ZWVjZGJkNTQwZjg5ZTFhMjNlZDVhYWIwN2I3MTdhMWMwNjg2MWYiLCJzZXFubyI6MjMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAwZq2L/GGDA9hAqU085PdIdphzaL0gUFzaf/nXa+pFvKr19eU9nPC5z4rOo0pwhf3zDwFpvZcBjGJHCz/MvfsC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKP0bP7BUVSRME5oxBk2X6G+dFYcjWg4u7AAiitDCVCgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexskc
