@@ -14,11 +14,14 @@ h1{
   margin-bottom: 35pt;
 }
 
+.containercontainer {
+  display: flex;
+  justify-content: space-around;
+}
+
 .appcontainer{
 width: 300px;
 background-color: #ffffff;
-margin-left: 20px;
-margin-right: 20px;
 display: inline-block;
 box-shadow: 0 0 5px #888888;
 border-radius: 20px;
@@ -65,14 +68,17 @@ margin: 0;
   margin-right: auto;
 }
 
+.togglecontainer {
+  display: flex;
+  justify-content: space-between;
+}
+
 a {
    color: #999;
    text-decoration: none;
    transition:.3s;
    padding:12px;
    font-size: 48pt;
-   margin-left: 149px;
-   margin-right: 149px;
 }
 
 a:focus {
@@ -84,10 +90,10 @@ a:hover {
 }
 
 .main {
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%, 0);
-  width: calc(719px);
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 700px;
 }
 
 .footer {
