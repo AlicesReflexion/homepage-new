@@ -22,7 +22,7 @@ h1{
 .appcontainer{
 width: 300px;
 background-color: #ffffff;
-display: inline-block;
+display: inline-flex;
 box-shadow: 0 0 5px #888888;
 border-radius: 20px;
 padding: 8px;
@@ -30,6 +30,8 @@ transition: .5s;
 opacity: 0;
 vertical-align: top;
 font-weight: bold;
+flex-wrap: wrap;
+justify-content: space-around;
 }
 
 .extrainfo {
@@ -70,7 +72,7 @@ margin: 0;
 
 .togglecontainer {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 a {
