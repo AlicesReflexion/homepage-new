@@ -14,12 +14,15 @@
                       if (newboxes[x].id == thechosenone) {
                             if (newboxes[x].style.opacity == 1) {
                                   newboxes[x].style.opacity = 0;
+                                  newboxes[x].style.pointerEvents = "none";
                             }
                             else {
                                   newboxes[x].style.opacity = 1;
+                                  newboxes[x].style.pointerEvents = "auto";
                             }
-                      }else {
+                      } else {
                             newboxes[x].style.opacity = 0;
+                            newboxes[x].style.pointerEvents = "none";
                       }
                 }
           }

@@ -32,6 +32,7 @@ vertical-align: top;
 font-weight: bold;
 flex-wrap: wrap;
 justify-content: space-around;
+pointer-events: none;
 }
 
 .extrainfo {
